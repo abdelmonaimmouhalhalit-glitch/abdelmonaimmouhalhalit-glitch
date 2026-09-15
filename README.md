@@ -10,7 +10,6 @@
 |---|---|
 | **Catalogue complet (17 projets)** | [portfolio](https://github.com/abdelmonaimmouhalhalit-glitch/portfolio) |
 | Produit phare | [terrops.fr](https://terrops.fr) · [App Store](https://apps.apple.com/fr/app/terrops/id6770127316) |
-| Code public | [terrops-showcase](https://github.com/abdelmonaimmouhalhalit-glitch/terrops-showcase) |
 | ATS / CV en prod | [myatscheck.com](https://myatscheck.com) |
 
 Le code de production reste **privé**. Le dépôt [portfolio](https://github.com/abdelmonaimmouhalhalit-glitch/portfolio) liste **tous** les projets (GitHub + local + Vercel) **sans divulguer le source**.

@@ -1,6 +1,6 @@
 ### Abdelmonaim Mouhalhal — ingénieur logiciel (ISIMA)
 
-**Full-stack / produit** · Java · Spring · Angular · Next.js · Expo · Flutter · Laravel · Supabase · PostgreSQL
+**Full-stack / produit** · Java · Spring · Angular · Next.js · Expo · Flutter · Laravel · AWS · Terraform · PostgreSQL
 
 ---
 
@@ -29,4 +29,4 @@ Le code de production reste **privé**. Le dépôt [portfolio](https://github.co
 
 ## Stack
 
-`Java` `Spring Boot` `Angular` `Next.js` `React Native/Expo` `Flutter` `Laravel` `TypeScript` `PostgreSQL` `Supabase` `Stripe` `Docker` `Vercel` `n8n`
+`Java` `Spring Boot` `Angular` `Next.js` `React Native/Expo` `Flutter` `Laravel` `TypeScript` `AWS` `Terraform` `PostgreSQL` `Stripe` `Docker` `Vercel` `n8n`
